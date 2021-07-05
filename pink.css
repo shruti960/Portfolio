@@ -1,0 +1,37 @@
+.aside .logo a::before{
+	border-top:4px solid #ec1839;
+	border-left:4px solid #ec1839;
+}
+
+.aside .logo a::after{
+	border-right:4px solid #ec1839;
+	border-bottom:4px solid #ec1839;
+}
+
+.about .about-content .personal-info .Languages,
+.about .about-content .personal-info .Web,
+.about .about-content .personal-info .IT,
+.section .section1 .skill,
+.contact  .contact-info-item .icon .fa,
+.blog .blog-item-inner .blog-info .blog-tags a,
+.about .about-content .about-text p span,
+.aside .nav  li a:hover,
+.aside .nav  li a.active,
+body.dark .aside .nav  li a:hover,
+body.dark .aside .nav  li a.active
+{
+	color:#ec1839;
+}
+
+.about .about-content  .timeline .circle-dot,
+.about .about-content  .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a{
+	background-color:#ec1839;
+}
